@@ -1,0 +1,18 @@
+{
+  "name": "games-slot",
+  "main": "./lib/games-slot",
+  "version": "1.0.0",
+  "description": "Winrate Tinggi Trik Menang Games Slot Koin Tukar Uang",
+  "keywords": ["agen slot online","pocket gaming soft","agen toto play slot","situs judi slot online","toptrend gaming slot","agen slot terbaik","pocket gaming soft"],
+
+  "activationCommands": {
+    "atom-workspace": "games-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya85/games-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
