@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Kumpulan Trik Trik Menang Games Slot Via Ovo](https://atom.io/packages/games-slot)
-## :star2: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/register/) :snowflake: <<< 
-## :fire: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :dart: <<< 
-## :star: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/promo/) :fire: <<< 
+## :star2: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/register/) :snowflake: <<< 
+## :fire: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :dart: <<< 
+## :star: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/promo/) :fire: <<< 
 
 ## Informasi Situs /Server Kami : 
 
